@@ -48,4 +48,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name]
+[Athallah1234](https://github.com/Athallah1234)
