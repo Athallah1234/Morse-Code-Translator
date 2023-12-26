@@ -24,7 +24,7 @@ Morse Code Translator is a simple Python application built using the Tkinter lib
 ## Getting Started
 
 1. Ensure you have Python installed on your machine.
-2. Clone the repository: `git clone https://github.com/your-username/morse-code-translator.git`
+2. Clone the repository: `git clone https://github.com/Athallah1234/Morse-Code-Translator.git`
 3. Navigate to the project directory: `cd morse-code-translator`
 4. Install required dependencies: `pip install -r requirements.txt`
 5. Run the application: `python morse_code_translator.py`
