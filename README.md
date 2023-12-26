@@ -1,7 +1,5 @@
 # Morse Code Translator
 
-![Morse Code Translator](link-to-an-image)
-
 ## Description
 
 Morse Code Translator is a simple Python application built using the Tkinter library. It allows users to translate text to Morse code and vice versa. The application provides an intuitive graphical interface with features such as history tracking, clearing input/output, copying output to the clipboard, and more.
