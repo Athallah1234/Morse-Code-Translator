@@ -36,7 +36,44 @@ Morse Code Translator is a simple Python application built using the Tkinter lib
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+We welcome contributions! If you find any issues or have suggestions for improvements, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Clone your forked repository to your local machine.
+3. Create a new branch for your changes: `git checkout -b feature/your-feature` or `git checkout -b bugfix/your-bugfix`.
+4. Make your changes and commit them: `git commit -m 'Your descriptive commit message'`.
+5. Push your changes to your fork: `git push origin feature/your-feature`.
+6. Open a pull request on the original repository.
+
+## FAQ
+
+### Q: How can I contribute to this project?
+A: You can contribute by opening issues for bug reports or feature requests, or by creating pull requests with your enhancements.
+
+### Q: Is there a limit to the length of text that can be translated?
+A: There is no strict limit, but extremely long text may be truncated in the UI.
+
+### Q: Can I use this code in my own project?
+A: Yes, the project is licensed under the MIT License, allowing you to use and modify the code for your purposes.
+
+### Q: How does the history feature work?
+A: The history feature records each translation and displays it in the "History of Translations" section.
+
+### Q: Is there a way to customize the Morse Code translation speed?
+A: The application currently does not have a customizable speed feature. The translation is instantaneous upon clicking the "Translate" or "Translate Morse" button.
+
+### Q: Can I contribute new features to the application?
+A: Absolutely! We encourage contributions. Feel free to open an issue to discuss new features or directly submit a pull request with your enhancements.
+
+### Q: How can I view the complete history of translations?
+A: The history section displays the most recent translations. For a complete history, you may need to refer to the application logs or modify the code to store a more extensive history.
+
+### Q: Does the application support international characters?
+A: The current implementation primarily focuses on the standard Latin alphabet and Arabic numerals. While some international characters may be supported, full compatibility is not guaranteed.
+
+## History
+
+The project maintains a history of translations for user reference. You can view this history in the "History of Translations" section
 
 ## License
 
